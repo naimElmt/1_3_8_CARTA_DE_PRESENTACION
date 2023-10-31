@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1_3_8_Presentacion</string>
+    <string name="texto_nombre">Naim El Mhidi</string>
+    <string name="texto_frase">Estudiante y disfrutador de la programacion</string>
+    <string name="dog_name_1">Java</string>
+    <string name="dog_name_2">Kotlin</string>
+    <string name="dog_name_3">HTML</string>
+</resources>
